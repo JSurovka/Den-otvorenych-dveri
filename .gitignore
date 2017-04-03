@@ -3,6 +3,7 @@
 ### Example user template
 
 # IntelliJ project files
+<<<<<<< HEAD
 .idea
 *.iml
 out
@@ -10,3 +11,12 @@ gen
 .idea/vcs.xml
 .gitignore
 .idea/workspace.xml
+=======
+*.iml
+out
+gen
+.gitignore
+.idea/
+.idea/modules.xml
+.idea/Den-otvorenych-dveri2.iml
+>>>>>>> Site_structure
