@@ -311,7 +311,7 @@ section h3.section-subheading {
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
-    opacity: 1
+    opacity: 0.7
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -618,29 +618,29 @@ section#contact .form-control:focus {
 section#contact ::-webkit-input-placeholder {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    font-weight: 700;
-    color: #eee
+    font-weight: bold;
+    color: #999
 }
 
 section#contact :-moz-placeholder {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    font-weight: 700;
-    color: #eee
+    font-weight: bold;
+    color: #999
 }
 
 section#contact ::-moz-placeholder {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    font-weight: 700;
-    color: #eee
+    font-weight: bold;
+    color: #999
 }
 
 section#contact :-ms-input-placeholder {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    font-weight: 700;
-    color: #eee
+    font-weight: bold;
+    color: #999
 }
 
 section#contact .text-danger {
